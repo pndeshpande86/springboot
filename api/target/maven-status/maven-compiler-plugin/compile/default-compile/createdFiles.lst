@@ -1,0 +1,11 @@
+com\ss\saga\general\common\api\NlsBundleApplicationRoot.class
+com\ss\saga\general\common\api\exception\ApplicationBusinessException.class
+com\ss\saga\general\common\api\exception\ApplicationTechnicalException.class
+com\ss\saga\general\logic\api\to\BinaryObjectEto.class
+com\ss\saga\general\service\api\rest\SecurityRestService.class
+com\ss\saga\general\common\api\BinaryObject.class
+com\ss\saga\general\common\api\exception\NoActiveUserException.class
+com\ss\saga\general\common\api\ApplicationEntity.class
+com\ss\saga\general\common\api\exception\ApplicationException.class
+com\ss\saga\general\common\api\to\UserProfileTo.class
+com\ss\saga\general\common\api\UserProfile.class

@@ -1,0 +1,9 @@
+CREATE TABLE employee(
+id BIGINT NOT NULL,
+modificationCounter INTEGER NOT NULL,
+empid BIGINT NOT NULL,
+empname VARCHAR(255) NOT NULL,
+empsal FLOAT NOT NULL,
+empdesg VARCHAR(255) NOT NULL
+PRIMARY KEY('empid')
+);
